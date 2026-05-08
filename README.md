@@ -538,6 +538,7 @@ Official guidance from the world's tax authorities. Bookmark whichever applies t
 - [**Awesome Memecoin Trading**](https://github.com/buddies2705/awesome-memecoin-trading) — 295+ memecoin trading tools. Awaken Tax (the featured tool here) is the standard for handling Pump.fun/LetsBonk volume.
 - [**Awesome Perp DEXs**](https://github.com/buddies2705/awesome-perp-dex) — 200+ perp DEXs. Hyperliquid PnL exports, perp tax handling, and DeFi-aware tools all overlap with this list.
 - [**Awesome Prediction Markets**](https://github.com/buddies2705/awesome-prediction-market) — Polymarket and prediction-market platforms. Their tax classification (gambling vs. trading) is jurisdiction-specific.
+- [**Awesome Blockchain & Crypto APIs**](https://github.com/buddies2705/awesome-blockchain-crypto-api) — 315+ blockchain APIs and developer infrastructure. Tax engines like CoinLedger / TaxBit / Awaken are typically built on top of these data APIs.
 
 ---
 
